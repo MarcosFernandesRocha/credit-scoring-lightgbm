@@ -126,8 +126,6 @@ Foi desenvolvida uma aplicação executiva contendo:
 
 ## 🚀 Como Executar o Projeto
 
-### 1️⃣ Criar ambiente
-```bash
-conda create -n credit_env python=3.10
-conda activate credit_env
-pip install -r requirements.txt
+### 1️Link para aplicação
+https://credit-scoring-lightgbm-2.onrender.com/
+
