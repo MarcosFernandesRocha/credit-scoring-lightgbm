@@ -5,8 +5,7 @@ Projeto completo de desenvolvimento de modelo de Credit Scoring com aplicação 
 ---
 Autor:
 
-Marcos Fernandes Rocha
-São Paulo - SP
+Marcos Fernandes Rocha. São Paulo - SP.
 
 Cientista de Dados - Linkedin: https://www.linkedin.com/in/marcos-rocha-ciencia-de-dados
 
