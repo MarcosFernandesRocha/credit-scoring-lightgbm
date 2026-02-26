@@ -127,5 +127,5 @@ Foi desenvolvida uma aplicação executiva contendo:
 ## 🚀 Como Executar o Projeto
 
 ### 1️Link para aplicação
-https://credit-scoring-lightgbm-2.onrender.com/
+https://credit-scoring-lightgbm-4.onrender.com/
 
