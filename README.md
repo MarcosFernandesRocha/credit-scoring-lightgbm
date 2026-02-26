@@ -4,6 +4,11 @@ Projeto completo de desenvolvimento de modelo de Credit Scoring com aplicação 
 
 ---
 
+
+
+https://github.com/user-attachments/assets/3f91d022-0b7e-44e3-93ed-a4cc1e92c594
+
+
 ## 📌 Objetivo do Projeto
 
 Desenvolver um modelo preditivo capaz de estimar a probabilidade de inadimplência de clientes de cartão de crédito, utilizando:
