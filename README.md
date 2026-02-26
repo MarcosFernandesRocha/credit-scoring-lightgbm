@@ -3,8 +3,16 @@
 Projeto completo de desenvolvimento de modelo de Credit Scoring com aplicação em Streamlit para escoragem e análise de risco.
 
 ---
+Autor:
 
-## 📌 Objetivo do Projeto
+Marcos Fernandes Rocha. São Paulo - SP.
+
+Cientista de Dados - Linkedin: https://www.linkedin.com/in/marcos-rocha-ciencia-de-dados
+
+https://github.com/user-attachments/assets/3f91d022-0b7e-44e3-93ed-a4cc1e92c594
+
+
+## Objetivo do Projeto
 
 Desenvolver um modelo preditivo capaz de estimar a probabilidade de inadimplência de clientes de cartão de crédito, utilizando:
 
@@ -17,15 +25,15 @@ Desenvolver um modelo preditivo capaz de estimar a probabilidade de inadimplênc
 
 ---
 
-## 🧠 Metodologia
+## Metodologia
 
 O projeto foi estruturado seguindo boas práticas de modelagem de risco de crédito:
 
-### 1️⃣ Amostragem
+### Amostragem
 - As 3 últimas safras foram separadas como validação Out of Time (OOT).
 - As demais safras foram utilizadas como base de desenvolvimento.
 
-### 2️⃣ Pré-processamento
+### Pré-processamento
 Pipeline automatizado contendo:
 
 - Substituição de valores nulos
@@ -39,7 +47,7 @@ Todo o pipeline foi salvo junto com o modelo final (`model_final.pkl`).
 
 ---
 
-## 🤖 Modelo Utilizado
+## Modelo Utilizado
 
 Foi utilizado o algoritmo **LightGBM**, escolhido por:
 
@@ -91,7 +99,7 @@ Isso permite identificar os principais drivers de risco da carteira.
 
 ---
 
-## 🧮 Classificação de Risco
+## Classificação de Risco
 
 Devido ao desbalanceamento da base, a classificação foi feita por percentil:
 
